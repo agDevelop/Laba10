@@ -1,6 +1,6 @@
-# Proj181019
+# Laba 10
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.9.
+Лабораторная работа №10 по предмету Скрипты. Гончаров Андрей, 181-321
 
 ## Development server
 
