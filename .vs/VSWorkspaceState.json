@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\e2e",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\shared",
+    "\\src\\app\\shared\\models"
+  ],
+  "SelectedNode": "\\src\\app\\shared\\models\\sensor.model.ts",
+  "PreviewInSolutionExplorer": false
+}
